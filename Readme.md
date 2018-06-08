@@ -16,3 +16,6 @@
 6、feed,py，TensorFlow 还提供了 feed 机制, 
 该机制 可以临时替代图中的任意操作中的 tensor 
 可以对图中任何操作提交补丁, 直接插入一个 tensor.  
+7、TensorFlow_MNIST文件夹里是mnist的程序  
+基础入门版是mnist_simple，
+高级版是mnist_advanced
